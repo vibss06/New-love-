@@ -22,7 +22,7 @@ function nextPopup() {
 }
 
 function rejectPopup() {
-  document.getElementById("popupText").innerText = "Oye aisa kya abi theek hai n 💔😭 Mala nahi manun jashil tari kuthe 😎";
+  document.getElementById("popupText").innerText = "Oye aisa kya abi theek hai n 💔😭 Mala  "NO" bolun jashil tari kuthe 😎";
   document.getElementById("popupButtons").style.display = "none";
 }
 
